@@ -15,7 +15,7 @@ The Outlook 2FA Activation Phishing Toolkit is a collection of scripts and resou
 
     ![third](https://github.com/IBarrous/2FAPhishingToolKit/assets/126162952/511eb65f-9525-4864-b976-e85669385509)
     
-- **Phishing Email Sender:** A Python script for sending phishing emails to targets, including customizable email subjects, content and attachments (<b><i>sendmail.py</i></b>).
+- **Phishing Email Sender:** A Python script for sending phishing emails to targets, including customizable email subjects, content and attachments (<b><i>SendMail.py</i></b>).
   
 ### Usage
 <pre><code>python3 HostWebsite.py #(<b>Make sure to install flask beforehand</b>)</code></pre>
